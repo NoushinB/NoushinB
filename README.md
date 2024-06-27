@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 | Postman | SoapUI |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="assets/soapui.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|
 
 
 
