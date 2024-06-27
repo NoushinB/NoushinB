@@ -1,4 +1,7 @@
 ## Hi there 👋
+### About Me:    
+Quality Assurance professional with a passion for building efficient testing strategies. Proven ability to deliver high-quality software through manual and automated testing across mobile, web, and desktop applications. Skilled in designing and executing test cases using Java, along with proficiency in automation frameworks like Appium, Cucumber, and Gherkin. Adept at bug tracking with Jira and thrives in Agile methodologies. Demonstrated commitment to continuous learning through self-driven automation projects on GitHub.
+      
 
 <!--
 **NoushinB/NoushinB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
