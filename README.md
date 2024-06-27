@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 |----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="assets/soapui.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|
 
+ ### Other:
+
+ | Jira | Xray |SQL | TestRail  | Jenkins  |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>|<img src="assets/xray.png" title="Xray" alt="Xray" width="55" height="55"/>|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/TestRail.svg" title="TestRail" alt="TestRail" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/>|
+
 
 
 
