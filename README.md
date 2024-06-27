@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=noushinB&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=noushinB&show_icons=true&theme=vision-friendly">
