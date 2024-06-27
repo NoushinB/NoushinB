@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=noushinB&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=noushinB&border_radius=5&card_width=800">
 </p>
 
 
