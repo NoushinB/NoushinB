@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Working on: 🚀
+- 🔭 I’m currently working on [CalculatorTestAutomation](https://github.com/NoushinB/CalculatorTestAutomation) project 
+
 ### Languages:
 | Java | Dart | JS | HTML5 | 
 |----------|----------|----------|-----|
