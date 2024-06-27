@@ -23,14 +23,20 @@ Here are some ideas to get you started:
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
 
-### Frameworks I Use for Test Automation:
+### Test Automation:
 
 | Appium  | Selenium | TestNG  | JUnit  | Cucumber  |
 |----------|----------|----------|----------|----------|
 |  <img src="assets/appium.svg" title="Appium"  alt="Appium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="assets/TestNG.png" title="TestNG" alt="TestNG" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="55" height="55"/>|  
 
 
-  
+  ### API Testing:
+
+| Postman | SoapUI |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|
+
+
 
 
 <p align="center">
