@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2581A9&center=true&random=false&width=435&lines=Experinced+QA+Engineer+;Always+Learning+new+things+;Continuously+Improving+Skills;Passionate+about+Technology" /></a>
+</p>
+
 ### About Me:    
 Quality Assurance professional with a passion for building efficient testing strategies. Proven ability to deliver high-quality software through manual and automated testing across mobile, web, and desktop applications. Skilled in designing and executing test cases using Java, along with proficiency in automation frameworks like Appium, Cucumber, and Gherkin. Adept at bug tracking with Jira and thrives in Agile methodologies. Demonstrated commitment to continuous learning through self-driven automation projects on GitHub.
       
