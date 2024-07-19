@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ### Working on: 🚀
-- 🔭 I’m currently working on [CalculatorTestAutomation](https://github.com/NoushinB/CalculatorTestAutomation) project 
+- 🔭 I’m currently working on [OnlineClothingStoreAutomationTest](https://github.com/NoushinB/OnlineClothingStoreAutomationTest) project
 
 ### Languages:
 | Java | Dart | JS | HTML5 | 
