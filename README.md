@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ### Working on: 🚀
-- 🔭 I’m currently working on [OnlineClothingStoreAutomationTest](https://github.com/NoushinB/OnlineClothingStoreAutomationTest) project
+- 🔭 I’m currently working on [Selenium-WebDriver-Java-Testing-Example](https://github.com/NoushinB/Selenium-WebDriver-Java-Testing-Example) project
 
 ### Languages:
 | Java | Dart | JS | HTML5 | 
