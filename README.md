@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
   ### API Testing:
 
-| Postman | SoapUI |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="assets/soapui.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|
+| Postman | SoapUI |REST-Assured |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="assets/soapui.svg" title="SoapUI" alt="SoapUI" width="55" height="55"/>|<img src="assets/restAssured.png" title="REST-Assured" alt="REST-Assured" width="55" height="55"/>|
 
  ### Other:
 
