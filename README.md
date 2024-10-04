@@ -3,7 +3,7 @@
 </p>
 
 ### About Me:    
-Quality Assurance professional with a passion for building efficient testing strategies. Proven ability to deliver high-quality software through manual and automated testing across mobile, web, and desktop applications. Skilled in designing and executing test cases using Java, along with proficiency in automation frameworks like Appium, Cucumber, and Gherkin. Experienced in API testing using REST-Assured for validating RESTful services. Adept at bug tracking with Jira and thrives in Agile methodologies. Demonstrated commitment to continuous learning through self-driven automation projects on GitHub.
+Quality Assurance professional with a passion for building efficient testing strategies. Proven ability to deliver high-quality software through manual and automated testing across mobile, web, and desktop applications. Skilled in designing and executing test cases using Java, along with proficiency in automation frameworks like Appium, Selenium, Cucumber, and Gherkin. Experienced in API testing using REST-Assured for validating RESTful services. Adept at bug tracking with Jira and thrives in Agile methodologies. Demonstrated commitment to continuous learning through self-driven automation projects on GitHub.
       
 
 <!--
