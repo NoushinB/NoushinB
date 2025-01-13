@@ -62,6 +62,4 @@ Here are some ideas to get you started:
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noushinB&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly">
 </p>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
