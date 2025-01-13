@@ -51,11 +51,8 @@ Here are some ideas to get you started:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>|<img src="assets/xray.png" title="Xray" alt="Xray" width="55" height="55"/>|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/icons8-testrail-240.svg" title="TestRail" alt="TestRail" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/>|
 
 
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=noushinB&border_radius=5&card_width=800">
-</p>
-
+<br><br>
+<br><br>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=noushinB&show_icons=true&theme=vision-friendly">
