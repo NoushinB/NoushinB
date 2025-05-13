@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Working on: 🚀
 - 🔭 I’m currently working on:
-1. [Selenium-WebDriver-Java-Testing-Example](https://github.com/NoushinB/Selenium-WebDriver-Java-Testing-Example)
+1. [Selenium-WebDriver-Java-Testing-Example](https://github.com/NoushinB/java_course)
 
 
 ### Languages:
