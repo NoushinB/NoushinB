@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Working on: 🚀
 - 🔭 I’m currently working on:
 1. [Java_course](https://github.com/NoushinB/java_course)
+-->
 
 
 ### Languages:
